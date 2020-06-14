@@ -1,5 +1,7 @@
 # LazyTomato
 
+![](https://img.shields.io/badge/license-GPLv2-blue)
+
 [中文版](./README_CH-ZH.md)
 
 simple pomodoro clock for windows
